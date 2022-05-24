@@ -3,4 +3,4 @@
 
 > module "keyboard"
 
-> create for windows (Ps: your can edit code for everyone "os"
+> create for windows (Ps: you can edit code for everyone "os"
